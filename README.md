@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Website building
 - 📫 How to reach me sabbir110294@gmail.com
 - 😄 Pronouns: He, Male
-- ⚡ Fun fact: I have a Electrical and Electronic Engineering , Bachelor of Science Degree.
+- ⚡ Fun fact: I have an Electrical and Electronic Engineering , Bachelor of Science Degree.
 
 <!---
 sabbirahmad11/sabbirahmad11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
